@@ -1,0 +1,14 @@
+# Virtual environment folder
+myenv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Other unnecessary files
+.DS_Store
+.vscode/
